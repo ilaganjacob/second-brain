@@ -10,7 +10,7 @@ Each phase leaves the app runnable and has checks you can do in a few minutes. C
 | --- | --- | --- | --- |
 | 01 | [Scaffold](phase-01-scaffold.md) | Claude | done |
 | 02 | [Data model](phase-02-data-model.md) | Claude | done |
-| 03 | [Parser](phase-03-parser.md) | Claude, you review | not started |
+| 03 | [Parser](phase-03-parser.md) | Claude, you review | done |
 | 04 | [Capture and inbox API](phase-04-capture-api.md) | Claude, you review | not started |
 | 05 | [Design system and shell](phase-05-design-shell.md) | Claude | not started |
 | 06 | [Capture and inbox UI](phase-06-capture-inbox-ui.md) | Claude | not started |

@@ -1,0 +1,20 @@
+{"text": "applied to Stripe for frontend engineer", "expect": ["application"]}
+{"text": "$14 lunch at Freshii", "expect": ["meal", "spending"]}
+{"text": "energy 3 mood 4 slept 2", "expect": ["checkin"]}
+{"text": "meal prepped chicken and rice for the week", "expect": ["meal"]}
+{"text": "Shopify moved me to interview", "expect": ["application"], "application_id": "app_shop01"}
+{"text": "45 min zwift ride", "expect": ["note"]}
+{"text": "14 zwift", "expect": ["note"]}
+{"text": "applied to 3 jobs today: Wave, Koho and Clio, all frontend roles", "expect": ["application", "application", "application"]}
+{"text": "yesterday spent $62 on groceries at No Frills", "expect": ["spending"], "date": "2026-10-25"}
+{"text": "got rejected by Wave", "expect": ["application"], "application_id": "app_wave01"}
+{"text": "uber home $23", "expect": ["spending"]}
+{"text": "cooked pasta at home, felt tired, energy 2", "expect": ["checkin", "meal"]}
+{"text": "talked to Sam about a freelance website project, sending a proposal friday", "expect": ["note"]}
+{"text": "ate out with friends, $48 at Pai", "expect": ["meal", "spending"]}
+{"text": "sleep was 4 last night, mood 5", "expect": ["checkin"], "date": "2026-10-26"}
+{"text": "Netflix 18.99", "expect": ["spending"]}
+{"text": "recruiter screen with Wealthsimple tomorrow", "expect": ["application"], "application_id": "app_ws01", "date": "2026-10-27"}
+{"text": "lol nothing today", "expect": ["note"]}
+{"text": "coffee 5.50 and a $12 burrito", "expect": ["meal", "spending", "spending"]}
+{"text": "applied Clio frontend developer, energy 4 mood 3 sleep 3, meal prepped", "expect": ["application", "checkin", "meal"]}

@@ -1,6 +1,6 @@
 # Phase 03: Parser
 
-**Status:** not started · **Who:** Claude writes it, explaining choices; you review
+**Status:** done · **Who:** Claude writes it, explaining choices; you review
 
 ## Goal
 Text in, validated typed items out, tested against 20 real sentences before any route uses it.
