@@ -1,6 +1,6 @@
 # Phase 02: Data model
 
-**Status:** not started · **Who:** Claude
+**Status:** done · **Who:** Claude
 
 ## Goal
 The tables from SPEC.md exist, entries can only ever be appended, and goals are seeded.

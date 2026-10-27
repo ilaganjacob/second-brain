@@ -1,6 +1,19 @@
+from contextlib import asynccontextmanager
+
 from fastapi import FastAPI
 
-app = FastAPI(title="Second Brain")
+from api.db import init_db, make_engine
+
+engine = make_engine()
+
+
+@asynccontextmanager
+async def lifespan(_app: FastAPI):
+    init_db(engine)
+    yield
+
+
+app = FastAPI(title="Second Brain", lifespan=lifespan)
 
 
 @app.get("/api/health")
